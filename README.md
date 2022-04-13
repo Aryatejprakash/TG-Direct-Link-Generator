@@ -156,7 +156,7 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 
 ## Contact me
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots)
-[![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots_Support)
+[![Telegram Channel](https://t.me/Jacks_official)
+[![Telegram Group](https://t.me/arya_bots)
 
-You can contact either via my [Telegram Group](https://telegram.me/TechZBots_Support) or you can PM me on [@Tech_Shreyash](https://telegram.me/Tech_Shreyash)
+You can contact either via my [Telegram Group](https://telegram.me/jacks_official) or you can PM me on [@back2vedas](https://telegram.me/back2vedas)
